@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-20T11:28:34.150Z</updated>
+  <updated>2019-12-22T08:40:42.311Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于用hexo搭建个人博客的操作步骤（一）</title>
+    <link href="http://yoursite.com/2019/12/22/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://yoursite.com/2019/12/22/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2019-12-22T08:40:42.025Z</published>
+    <updated>2019-12-22T08:40:42.311Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="关于用hexo搭建个人博客的操作步骤（一）"><a href="#关于用hexo搭建个人博客的操作步骤（一）" class="headerlink" title="关于用hexo搭建个人博客的操作步骤（一）"></a>关于用hexo搭建个人博客的操作步骤（一）</h1><h3 id="第一步：首先去hexo，官网下载"><a href="#第一步：首先去hexo，官网下载" class="headerlink" title="第一步：首先去hexo，官网下载"></a>第一步：首先去hexo，官网下载</h3><p>(1)git 官网下载地为<a href="https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）" target="_blank" rel="noopener">https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）</a></p><p>(2)Node.js 官网下载地为<a href="https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）" target="_blank" rel="noopener">https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;关于用hexo搭建个人博客的操作步骤（一）&quot;&gt;&lt;a href=&quot;#关于用hexo搭建个人博客的操作步骤（一）&quot; class=&quot;headerlink&quot; title=&quot;关于用hexo搭建个人博客的操作步骤（一）&quot;&gt;&lt;/a&gt;关于用hexo搭建个人博客的操作步骤（一）&lt;/
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
