@@ -5,25 +5,37 @@
     
     <entry>
       <title>关于用hexo搭建个人博客的操作步骤（一）</title>
-      <link href="/2019/12/22/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/"/>
-      <url>/2019/12/22/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+      <link href="/2020/01/04/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+      <url>/2020/01/04/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/</url>
       
         <content type="html"><![CDATA[<h1 id="关于用hexo搭建个人博客的操作步骤（一）"><a href="#关于用hexo搭建个人博客的操作步骤（一）" class="headerlink" title="关于用hexo搭建个人博客的操作步骤（一）"></a>关于用hexo搭建个人博客的操作步骤（一）</h1><h4 id="第一步：下载hexo"><a href="#第一步：下载hexo" class="headerlink" title="第一步：下载hexo"></a>第一步：下载hexo</h4><p>(1)git 官网下载地为<a href="https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）" target="_blank" rel="noopener">https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）</a></p><p>(2)Node.js 官网下载地为<a href="https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）" target="_blank" rel="noopener">https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）</a></p><h4 id="第二步：一只点击即可"><a href="#第二步：一只点击即可" class="headerlink" title="第二步：一只点击即可"></a>第二步：一只点击即可</h4><h4 id="第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。"><a href="#第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。" class="headerlink" title="第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。"></a>第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。</h4><p><img src="/images/2019-12-22/0.jpg" alt=""></p><h4 id="第四步：可以使用两种方法进入这一步。"><a href="#第四步：可以使用两种方法进入这一步。" class="headerlink" title="第四步：可以使用两种方法进入这一步。"></a>第四步：可以使用两种方法进入这一步。</h4><p>（1）：找到刚刚创建的文件夹，右键选择git-bash然后进入终端窗口</p><p>（2）：直接打开git-bash然后输入命令</p><p>cd c：（hexo存放的磁盘）</p><p><img src="/images/2019-12-22/1.jpg" alt=""></p><p>cd hexo（进入存放文件夹）</p><p>输入npm install -g hexo-cli进行hexo安装</p><p><img src="/images/2019-12-22/2.jpg" alt=""></p><h4 id="第五步"><a href="#第五步" class="headerlink" title="第五步:"></a>第五步:</h4><p>进入文件之后，输入hexo init安装hexo文件，等待安装完成接着输入</p><p>npm install完成跑码之后输入hexo sever出现</p><p>INFO Start processing</p><p>INFO Hexo is running at <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a> . Press Ctrl+C to stop.</p><p>完成</p><p><img src="/images/2019-12-22/3.jpg" alt=""></p><p><img src="/images/2019-12-22/4.jpg" alt=""></p><h4 id=""><a href="#" class="headerlink" title=""></a></h4>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
       
     </entry>
     
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2019/12/22/hello-world/"/>
-      <url>/2019/12/22/hello-world/</url>
+      <title>kali linux</title>
+      <link href="/2020/01/04/kali%20Linux/"/>
+      <url>/2020/01/04/kali%20Linux/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="一个关于kali-linux下载的帖子"><a href="#一个关于kali-linux下载的帖子" class="headerlink" title="一个关于kali linux下载的帖子"></a>一个关于kali linux下载的帖子</h1><p>找到了一个可以下载之前各个版本的kali网站，下载连接在下面：</p><p>下载地址：<br><a href="http://old.kali.org/kali-images/" target="_blank" rel="noopener">http://old.kali.org/kali-images/</a></p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 网站推荐 </tag>
+            
+        </tags>
       
     </entry>
     
