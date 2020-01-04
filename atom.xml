@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-12-22T08:40:42.311Z</updated>
+  <updated>2020-01-04T15:02:57.223Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2019/12/22/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://yoursite.com/2019/12/22/%E5%85%B3%E4%BA%8E%E7%94%A8hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <published>2019-12-22T08:40:42.025Z</published>
-    <updated>2019-12-22T08:40:42.311Z</updated>
+    <updated>2020-01-04T15:02:57.223Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="关于用hexo搭建个人博客的操作步骤（一）"><a href="#关于用hexo搭建个人博客的操作步骤（一）" class="headerlink" title="关于用hexo搭建个人博客的操作步骤（一）"></a>关于用hexo搭建个人博客的操作步骤（一）</h1><h3 id="第一步：首先去hexo，官网下载"><a href="#第一步：首先去hexo，官网下载" class="headerlink" title="第一步：首先去hexo，官网下载"></a>第一步：首先去hexo，官网下载</h3><p>(1)git 官网下载地为<a href="https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）" target="_blank" rel="noopener">https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）</a></p><p>(2)Node.js 官网下载地为<a href="https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）" target="_blank" rel="noopener">https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="关于用hexo搭建个人博客的操作步骤（一）"><a href="#关于用hexo搭建个人博客的操作步骤（一）" class="headerlink" title="关于用hexo搭建个人博客的操作步骤（一）"></a>关于用hexo搭建个人博客的操作步骤（一）</h1><h4 id="第一步：下载hexo"><a href="#第一步：下载hexo" class="headerlink" title="第一步：下载hexo"></a>第一步：下载hexo</h4><p>(1)git 官网下载地为<a href="https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）" target="_blank" rel="noopener">https://git-scm.com/download/win，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/git-for-windows/）</a></p><p>(2)Node.js 官网下载地为<a href="https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）" target="_blank" rel="noopener">https://nodejs.org/en/，但是因为该网站服务器在外国，访问速度及下载速度较慢，可以挂载vpn或者使用淘宝下载。（下载链接：https://npm.taobao.org/mirrors/node）</a></p><h4 id="第二步：一只点击即可"><a href="#第二步：一只点击即可" class="headerlink" title="第二步：一只点击即可"></a>第二步：一只点击即可</h4><h4 id="第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。"><a href="#第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。" class="headerlink" title="第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。"></a>第三步：在本地磁盘创建一个文件夹，在这我为了方便就将文件夹命名为hexo。</h4><p><img src="/images/2019-12-22/0.jpg" alt=""></p><h4 id="第四步：可以使用两种方法进入这一步。"><a href="#第四步：可以使用两种方法进入这一步。" class="headerlink" title="第四步：可以使用两种方法进入这一步。"></a>第四步：可以使用两种方法进入这一步。</h4><p>（1）：找到刚刚创建的文件夹，右键选择git-bash然后进入终端窗口</p><p>（2）：直接打开git-bash然后输入命令</p><p>cd c：（hexo存放的磁盘）</p><p><img src="/images/2019-12-22/1.jpg" alt=""></p><p>cd hexo（进入存放文件夹）</p><p>输入npm install -g hexo-cli进行hexo安装</p><p><img src="/images/2019-12-22/2.jpg" alt=""></p><h4 id="第五步"><a href="#第五步" class="headerlink" title="第五步:"></a>第五步:</h4><p>进入文件之后，输入hexo init安装hexo文件，等待安装完成接着输入</p><p>npm install完成跑码之后输入hexo sever出现</p><p>INFO Start processing</p><p>INFO Hexo is running at <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a> . Press Ctrl+C to stop.</p><p>完成</p><p><img src="/images/2019-12-22/3.jpg" alt=""></p><p><img src="/images/2019-12-22/4.jpg" alt=""></p><h4 id=""><a href="#" class="headerlink" title=""></a></h4>]]></content>
     
     <summary type="html">
     
